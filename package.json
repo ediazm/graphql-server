@@ -9,7 +9,7 @@
     "start": "node ./dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "E Diaz",
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.9.5",
